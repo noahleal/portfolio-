@@ -1,0 +1,32 @@
+body {
+  background-color: #000000;
+  background-image: image-url('stars.gif');
+  color: #21D126;
+}
+
+.welcome-gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 400px
+}
+
+ul {
+    display: inline;
+    // *display:inline;
+    text-align: center;
+}
+
+link:visited {
+  color: #21D126;
+}
+
+
+a {
+  color: #21D126;;
+}
+
+h1 {
+  text-align: center;
+}
