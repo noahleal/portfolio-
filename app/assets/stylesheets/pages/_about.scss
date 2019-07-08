@@ -1,1 +1,46 @@
+h1 {
+  font-family: 'roboto';
+  font-weight: lighter;
+}
+
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.about-background {
+  background-color: #108080;
+  min-height: 100vh;
+}
+
+.about-row {
+  padding: 30px 35px 0px 30px;
+}
+// .about-body{
+//   font-family: "roboto";
+//   font-weight: light;
+//   font-size: 20px;
+// }
+.dot-matrix-profile-picture {
+  display: inline-block;
+  margin-left: 133px;
+  margin-right: auto;
+  line-height:3px;
+  font-size: 3px;
+  font-weight:bold;
+  white-space:pre;
+  font-family: monospace;
+  color: #130;
+  background: #0F0;
+
+}
+
+.windows-background {
+  background-image: url("http://images6.fanpop.com/image/photos/37200000/Windows-95-Notepad-nintendofan12s-fun-stuff-37299069-688-417.png");
+  background-repeat: no-repeat;
+  object-fit: fill;
+  min-height: 555px;
+  font-size: 13px;
+  background-size: 700px 555px;
+}
+
 

@@ -1,0 +1,9 @@
+.vertical-wrapper {
+  padding: 10px;
+  position: relative;
+  margin: auto;
+  z-index: 1;
+  width: fit-content;
+  max-width: 700px;
+  min-height: calc(100vh - 145px);
+}

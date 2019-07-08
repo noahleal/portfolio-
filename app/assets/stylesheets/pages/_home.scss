@@ -1,7 +1,16 @@
-body {
+.home-body{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  height: 100vh;
   background-color: #000000;
   background-image: image-url('stars.gif');
   color: #21D126;
+}
+body {
+
 }
 
 .welcome-gif {
