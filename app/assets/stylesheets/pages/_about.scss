@@ -35,10 +35,11 @@ body{
 }
 
 .windows-background {
-  background-image: url("http://images6.fanpop.com/image/photos/37200000/Windows-95-Notepad-nintendofan12s-fun-stuff-37299069-688-417.png");
+  background-image: image-url("Windows-95-window.png");
   background-repeat: no-repeat;
   object-fit: fill;
   min-height: 555px;
+  max-height: 555px;
   font-size: 13px;
   background-size: 700px 555px;
 }

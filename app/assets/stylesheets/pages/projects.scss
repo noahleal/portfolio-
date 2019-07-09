@@ -1,0 +1,23 @@
+.projects-background {
+  background-image: image-url('projects-background.jpg');
+  min-height: 100vh;
+}
+
+.mac-background {
+  background-image: image-url("Mac-OS9-window.png");
+  background-repeat: no-repeat;
+  object-fit: fill;
+  min-height: 555px;
+  max-height: 555px;
+  font-size: 13px;
+  background-size: 700px 555px;
+}
+
+.logos {
+  margin: -10px;
+}
+ .logos img{
+  width: 100px;
+
+ }
+
